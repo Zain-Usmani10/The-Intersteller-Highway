@@ -1,4 +1,4 @@
-# The Intersteller Highway
+# The Interstellar Highway
 
 ## **Interstellar Trade Route Planner**
 ## OEC 2026 Programming Competition Entry
